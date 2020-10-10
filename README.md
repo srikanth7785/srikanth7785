@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Srikanth 
-<p align = "left"> <img src="https://komarev.com/ghpvc/?username=srikanth7785&label=Views&color=blue&style=plastic" alt="srikanth7785" /> </p>
+<p align = "left"> <img src="https://komarev.com/ghpvc/?username=srikanth7785&label=Viewers%20count&color=blue&style=plastic" alt="srikanth7785" /> </p>
 
 ```
 🌱 I’m currently improving my Flutter and C++ skills.
