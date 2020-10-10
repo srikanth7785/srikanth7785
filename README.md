@@ -16,7 +16,7 @@
 I’m an UnderGrad student at [GITAM(Deemed to be University)](http://gitam.edu) with a handful of experience in `Flutter`. Here are a couple of my projects live on `Play Store`.</br>
 </br>
 [Othello](https://play.google.com/store/apps/details?id=com.srikanth7785.othello) - A small game with 10K+📥 | 4.0 ⭐</br>
-[Gmaterials](https://play.google.com/store/apps/details?id=com.we.intialp) - All materials under one roof(only for GITAMites') with 1K+📥 | 4.7 ⭐</br>
+[Gmaterials](https://play.google.com/store/apps/details?id=com.we.intialp) - exclusively for GITAMites' with 1K+📥 | 4.7 ⭐</br>
 
 . . . and many more . . . feel free to check out all of my [repositories](https://github.com/srikanth7785/tab?=repositories).
 
