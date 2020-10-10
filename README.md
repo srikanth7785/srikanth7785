@@ -20,5 +20,5 @@ I’m an UnderGrad student at [GITAM(Deemed to be University)](http://gitam.edu)
 
 ##### Connect me via:
 [![Twitter: srikanth7785](https://img.shields.io/twitter/follow/srikanth7785?style=social)](https://twitter.com/srikanth7785)
-[![Linkedin: vanamalasrikanth](https://img.shields.io/badge/-Vanamala%20Srikanth-blue?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/vanamalasrikanth/)](https://www.linkedin.com/in/vanamalasrikanth/)
+[![Linkedin: ](https://img.shields.io/badge/-vanamalasrikanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanamalasrikanth/)](https://www.linkedin.com/in/vanamalasrikanth/)
 [![GitHub srikanth7785](https://img.shields.io/github/followers/srikanth7785?label=follow%20me%20on%20GitHub&style=social)](https://github.com/srikanth7785)
