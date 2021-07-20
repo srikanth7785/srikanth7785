@@ -13,7 +13,9 @@
 	src="https://github-readme-stats.vercel.app/api?username=srikanth7785&theme=shades-of-purple&show_icons=true&count_private=true&hide_title=true"
 	alt="GitHub Stats for @srikanth7785"/>
   
-I’m a Computer Science UnderGrad student at [GITAM(Deemed to be University)](http://gitam.edu) with a handful of experience in `Flutter`. Here are a couple of my projects live on `Play Store`.</br>
+Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/).
+
+I also have a handful of experience in `Flutter`. Here are a couple of my projects live on `Play Store`.</br>
 </br>
 [Othello](https://play.google.com/store/apps/details?id=com.srikanth7785.othello) - A small game with 10K+📥 | 4.0 ⭐</br>
 [Gmaterials](https://play.google.com/store/apps/details?id=com.we.intialp) - exclusively for GITAMites' with 1K+📥 | 4.7 ⭐</br>
