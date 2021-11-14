@@ -17,8 +17,8 @@ Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/).
 
 I also have a handful of experience in `Flutter`. Here are a couple of my projects live on `Play Store`.</br>
 </br>
-[Othello](https://play.google.com/store/apps/details?id=com.srikanth7785.othello) - A small game with 10K+📥 | 4.0 ⭐</br>
-[Gmaterials](https://play.google.com/store/apps/details?id=com.we.intialp) - exclusively for GITAMites' with 1K+📥 | 4.7 ⭐</br>
+[Othello](https://bit.ly/othello-app) - A small game with 10K+📥 | 4.0 ⭐</br>
+[Gmaterials](http://bit.ly/gmaterials) - exclusively for GITAMites' with 1K+📥 | 4.7 ⭐</br>
 
 . . . and many more . . . feel free to check out all of my [repositories](https://github.com/srikanth7785/tab?=repositories) and the pinned repos below 👇.
 
