@@ -2,10 +2,10 @@
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=srikanth7785&label=Viewers%20count&color=blue&style=plastic" alt="srikanth7785" /> </p>
 
 ```
-🌱 I’m currently improving my Flutter and C++ skills.
-👯 I’m looking to collaborate for good C++ and/or Flutter projects.
+🌱 I’m currently improving my Flutter and Python skills.
+👯 I’m looking to collaborate for good Python and/or Flutter projects.
 💬 Ask me about: Flutter.
-📫 How to reach me: you can find me @srikanth7785 anywhere and everywhere.
+📫 How to reach me: find me @srikanth7785.
 ⚡ Fun fact: No, I don't know how to hack Facebook 🤞
  ```
 <img
