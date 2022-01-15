@@ -17,12 +17,13 @@ Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/).
 
 I also have a handful of experience in `Flutter`. Here are a couple of my projects live on `Play Store`.</br>
 </br>
-[Othello](https://bit.ly/othello-app) - A small game with 10K+📥 | 4.0 ⭐</br>
+[Othello](https://bit.ly/othello-app) - A Strategy Board Game with 10K+📥 | 4.7 ⭐</br>
 [Gmaterials](http://bit.ly/gmaterials) - exclusively for GITAMites' with 1K+📥 | 4.7 ⭐</br>
 
 . . . and many more . . . feel free to check out all of my [repositories](https://github.com/srikanth7785/tab?=repositories) and the pinned repos below 👇.
 
-##### Connect me via:
-[![Twitter: srikanth7785](https://img.shields.io/twitter/follow/srikanth7785?style=social)](https://twitter.com/srikanth7785)
+> Find me on:
+> [LinkedIn](https://www.linkedin.com/in/vanamalasrikanth) | [Twitter](https://twitter.com/srikanth7785)
+<!-- [![Twitter: srikanth7785](https://img.shields.io/twitter/follow/srikanth7785?style=social)](https://twitter.com/srikanth7785)
 [![Linkedin: ](https://img.shields.io/badge/-vanamalasrikanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanamalasrikanth/)](https://www.linkedin.com/in/vanamalasrikanth/)
-[![GitHub srikanth7785](https://img.shields.io/github/followers/srikanth7785?label=follow%20me%20on%20GitHub&style=social)](https://github.com/srikanth7785)
+[![GitHub srikanth7785](https://img.shields.io/github/followers/srikanth7785?label=follow%20me%20on%20GitHub&style=social)](https://github.com/srikanth7785) -->
