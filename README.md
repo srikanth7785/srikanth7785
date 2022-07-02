@@ -8,10 +8,6 @@
 📫 How to reach me: find me @srikanth7785.
 ⚡ Fun fact: No, I don't know how to hack Facebook 🤞
  ```
-<img
-	align="right"
-	src="https://github-readme-stats.vercel.app/api?username=srikanth7785&theme=shades-of-purple&show_icons=true&count_private=true&hide_title=true"
-	alt="GitHub Stats for @srikanth7785"/>
   
 Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/).
 
@@ -24,6 +20,12 @@ I also have a handful of experience in `Flutter`. Here are a couple of my projec
 
 > Find me on:
 > [LinkedIn](https://www.linkedin.com/in/vanamalasrikanth) | [Twitter](https://twitter.com/srikanth7785)
+
+
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=srikanth7785&theme=shades-of-purple&show_icons=true&count_private=true"
+	alt="GitHub Stats for @srikanth7785"/>
+<img width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=srikanth7785&theme=shades-of-purple" />
+
 <!-- [![Twitter: srikanth7785](https://img.shields.io/twitter/follow/srikanth7785?style=social)](https://twitter.com/srikanth7785)
 [![Linkedin: ](https://img.shields.io/badge/-vanamalasrikanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanamalasrikanth/)](https://www.linkedin.com/in/vanamalasrikanth/)
 [![GitHub srikanth7785](https://img.shields.io/github/followers/srikanth7785?label=follow%20me%20on%20GitHub&style=social)](https://github.com/srikanth7785) -->
