@@ -2,7 +2,7 @@
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=srikanth7785&label=Viewers%20count&color=blue&style=plastic" alt="srikanth7785" /> </p>
 
 ```
-🌱 I’m currently improving my Flutter/BigData/Web Dev/Python/SQL/UNIX skills - Yes, I'm a moron, trying to learn multiple things parallely😐
+🌱 I’m currently improving my Flutter/BigData/Web Dev/Python/SQL/UNIX skills - Yes, I'm a moron, trying to learn all in parallel😐
 👯 I’m looking to collaborate for good projects on any technology - not that anyone really asks for😕.
 💬 Ask me about: Flutter - only if I had been any better than what you can't find on google🤷‍♂️.
 📫 How to reach me: find me @srikanth7785🙃.
