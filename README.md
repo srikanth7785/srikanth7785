@@ -2,10 +2,10 @@
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=srikanth7785&label=Viewers%20count&color=blue&style=plastic" alt="srikanth7785" /> </p>
 
 ```
-🌱 I’m currently improving my Flutter and Python skills.
-👯 I’m looking to collaborate for good Python and/or Flutter projects.
-💬 Ask me about: Flutter.
-📫 How to reach me: find me @srikanth7785.
+🌱 I’m currently improving my Flutter/BigData/Web Dev/Python/SQL/UNIX skills - Yes, I'm a moron, trying to learn multiple things parallely😐
+👯 I’m looking to collaborate for good projects on any technology - not that anyone really asks for😕.
+💬 Ask me about: Flutter - only if I had been any better than what you can't find on google🤷‍♂️.
+📫 How to reach me: find me @srikanth7785🙃.
 ⚡ Fun fact: No, I don't know how to hack Facebook 🤞
  ```
   
