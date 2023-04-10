@@ -6,7 +6,7 @@
 👯 looking to collaborate for good projects on any technology - not that anyone really asks for😕.
 💬 Ask me about: Flutter - only if I had been any better than what you can't find on google🤷‍♂️.
 📫 How to reach me: find me @srikanth7785🙃.
-⚡ Fun fact: No, I don't know how to hack Facebook 🤞
+⚡ Fun fact: No, I don't know how to hack Facebook🤞. but, I know how to exit `vim`😄
  ```
   
 Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/).
