@@ -2,14 +2,14 @@
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=srikanth7785&label=Viewers%20count&color=blue&style=plastic" alt="srikanth7785" /> </p>
 
 ```
-🌱 Currently improving my Flutter/BigData/Web Dev/Python/SQL/UNIX skills - Yes, I'm a moron, trying to learn all at once😐
-👯 looking to collaborate for good projects on any technology - not that anyone really asks for😕.
-💬 Ask me about: Flutter - only if I had been any better than what you can't find on google🤷‍♂️.
+🌱 Currently improving my BigData/Python/SQL/UNIX skills - Yes, I'm a moron, trying to learn all at once😐
+👯 looking to collaborate for good projects on Bigdata technology - not that anyone really asks for😕.
+💬 Ask me about: Bigdata - only if I had been any better than what you can't find on google🤷‍♂️.
 📫 How to reach me: find me @srikanth7785🙃.
 ⚡ Fun fact: No, I don't know how to hack Facebook🤞. but, I know how to exit `vim`😄
  ```
   
-Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/).
+Data Engineer at KOMG India
 
 I also have a handful of experience in `Flutter`. Here are a couple of my projects live on `Play Store`.</br>
 </br>
@@ -19,7 +19,7 @@ I also have a handful of experience in `Flutter`. Here are a couple of my projec
 . . . and many more . . . feel free to check out all of my [repositories](https://github.com/srikanth7785/tab?=repositories) and the pinned repos below 👇.
 
 > Find me on:
-> [LinkedIn](https://www.linkedin.com/in/vanamalasrikanth) | [Twitter](https://twitter.com/srikanth7785)
+> [LinkedIn](https://www.linkedin.com/in/vanamalasrikanth)
 
 
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=srikanth7785&theme=shades-of-purple&show_icons=true&count_private=true"
